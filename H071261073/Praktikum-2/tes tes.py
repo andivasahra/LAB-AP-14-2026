@@ -18,4 +18,5 @@ else:
 
 print(f"Pesanan: {pesanan}")
 print(f"Total tambahan: Rp{tambahan}")
+print("oke")
 
